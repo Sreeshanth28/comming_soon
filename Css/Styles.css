@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    width:100%;
     background-image: url("../Pics/horror.jpg");
     background-size: cover;
 }
