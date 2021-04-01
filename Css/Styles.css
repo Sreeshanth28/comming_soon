@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background-image: url("../Pics/horror.jpg");
+    background-size: cover;
+}
+
+h2 {
+    font-family: 'Kaushan Script', cursive;
+    color: #440a67;
+    margin-left: 4rem;
+    font-size: 3rem;
+}
+
+div {
+    margin: 4% auto 0 auto;
+    width: 50%;
+    padding-top: 3%;
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    text-transform: capitalize;
+    font-family: 'Syne Mono', monospace;
+    font-weight: bolder;
+    font-size: 500%;
+    color: #f7d9d9;
+}
+
+hr {
+    transform: translateY(-20px);
+    width: 30%;
+    border-width: 2px;
+}
+
+p {
+    font-size: 200%;
+    color: #ffd384;
+    font-weight: 800;
+    font-family: 'Yatra One', cursive;
+}
+
+h4 {
+    margin-top: 13rem;
+    margin-bottom: 0;
+    color: #f9f3f3;
+
+}
+
+a {
+    color: inherit;
+}
+
